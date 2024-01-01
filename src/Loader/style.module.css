@@ -1,0 +1,19 @@
+/* @import url(https://fonts.googleapis.com/css?family=Comfortaa:400,700,300);
+
+*,html{margin:0;padding:0} */
+
+
+
+.parent{
+  box-sizing: border-box;
+padding-top: 250px;
+display: flex;
+justify-content: center;
+height: 400px;
+
+}
+svg{
+  width: 100px;
+  height: 100px;
+
+}
